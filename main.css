@@ -1,0 +1,21 @@
+body {
+    font-family: "Source Code Pro";
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+a {
+    color: black;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
