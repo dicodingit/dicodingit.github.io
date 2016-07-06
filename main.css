@@ -1,10 +1,10 @@
 body {
-    font-family: "Source Code Pro";
+    font-family: "Source Code Pro", monospace;
     color: white;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 3em;
     margin: 0;
 }
 
@@ -13,12 +13,12 @@ a {
 }
 
 .center {
-    padding: 20px;
+    padding: 1.25em;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     background-color: black;
-    border-radius: 25px 0px 25px 25px;
+    border-radius: 1.5em 0 1.5em 1.5em;
 }
